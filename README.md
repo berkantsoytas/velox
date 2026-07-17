@@ -1,6 +1,6 @@
 # Velox ⚡
 
-![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)
+![Go Version](https://img.shields.io/badge/Go-1.26+-00ADD8?style=flat&logo=go)
 ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 Velox is a high-performance, concurrent HTTP load testing tool written in Go. It features a stunning, real-time Terminal User Interface (TUI) to visualize your API's performance, latency distributions, and live traffic under heavy load.
