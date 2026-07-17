@@ -66,4 +66,4 @@ velox -u https://example.com/api/login \
 ## 📄 License
 
 This project is licensed under the **GNU General Public License v3.0 (GPLv3)**.
-See the [LICENSE](https://www.github.com/berkantsoytas/velox/license) file for details.
+See the [LICENSE](https://raw.githubusercontent.com/berkantsoytas/velox/refs/heads/main/LICENSE) file for details.
